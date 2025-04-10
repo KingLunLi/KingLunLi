@@ -8,6 +8,7 @@
   
 - 💻 **Currently learning:** Learning **PyTorch** to advance my skillset in data analysis and computational modeling.
 
+##
 My resume and details of my experiences can be found at www.linkedin.com/in/kinglun-li
 
 Feel free to send me a message . Thank you for visiting! 
